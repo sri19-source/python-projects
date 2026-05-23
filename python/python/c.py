@@ -1,0 +1,4 @@
+r=int(input("enter the radius:"))
+area=3.14*r*r
+c=2*3.14*r
+print("area",area,"\n","circumference",c)

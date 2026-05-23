@@ -1,0 +1,1 @@
+str.find(sub):"hello".find("l")  # Returns the lowest index of the substring if found, otherwise -1
